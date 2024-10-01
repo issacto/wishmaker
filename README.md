@@ -1,6 +1,6 @@
 # Wishmaker Android
 
-The app stores users' contacts' birthdays and generates personalized birthday wishes using the on-device GPU on Android. 
+The app stores birthdays and generates personalized birthday wishes using the on-device GPU on Android. 
 
 ### Recipe
 - Kotlin Compose
